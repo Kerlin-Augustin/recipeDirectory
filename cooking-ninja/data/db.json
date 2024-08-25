@@ -36,6 +36,30 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "id": "f27f",
+      "title": "pizza",
+      "ingredients": [
+        "cheese",
+        "bread",
+        "tomato paste"
+      ],
+      "method": "Its pizzzzzzzza",
+      "cookingTime": "30 minutes"
+    },
+    {
+      "id": "210d",
+      "title": "soup",
+      "ingredients": [
+        "water",
+        "meat",
+        "veggies",
+        "oil",
+        "potatoes"
+      ],
+      "method": "Blah blah Blah",
+      "cookingTime": "60 minutes"
     }
   ]
 }
